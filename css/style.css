@@ -30,6 +30,13 @@
     height: auto;
 }
 
+.profile-decoration{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
 .MyPortfolio{
     width: 300px;
     height: auto;
