@@ -25,6 +25,11 @@
     float: right;
 }
 
+.MyPicture{
+    width: 300px;
+    height: auto;
+}
+
 .MyPortfolio{
     width: 300px;
     height: auto;
