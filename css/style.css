@@ -1,0 +1,50 @@
+* {
+    background-color: rgb(241, 232, 233);
+}
+
+#Heading {
+    font-weight: bolder;
+    text-align: center;
+    background-color: rgb(222, 229, 243);padding: 30px;
+    color: rgb(131, 13, 13);
+    font-family: serif;
+}
+
+.Line {
+    border: 1px solid rgb(133, 13, 13);
+}
+
+.Topic {
+    font-weight: 900;
+    color: rgb(131, 13, 13);
+}
+
+.image {
+    width: 120px;
+    height: auto;
+    float: right;
+}
+
+.MyPortfolio{
+    width: 300px;
+    height: auto;
+}
+
+#Name {
+    font-size: large;
+}
+
+.Content {
+    text-align: justify;
+}
+
+.Element {
+    width: 50px;
+    height: auto;
+    float: right;
+}
+
+#MyLine {
+    width: 50px;
+    height: auto;
+}
